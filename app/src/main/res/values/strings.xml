@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">P!ATD - App Information</string>
+
+    <!-- Bar Titles -->
+    <string name="afycso_title">A Fever You Can\'t Sweat Out</string>
+    <string name="po_title">Pretty. Odd.</string>
+    <string name="vv_title">Vices &amp; Virtues</string>
+    <string name="twtltrtd_title">Too Weird to Live, Too Rare to Die</string>
+    <string name="doab_title">Death of a Bachelor</string>
+    <string name="pftw_title">Pray for the Wicked</string>
+
+    <!-- Extras -->
+    <string name="album_spanish">Albúm</string>
+
+    <!-- Home -->
+    <string name="text_body_home"><![CDATA[
+        Formada en 2004 en Las Vegas, Panic! At The Disco ganó fama mundial con su álbum debut A Fever You Can’t Sweat Out (2005) y el icónico sencillo “I Write Sins Not Tragedies”.
+        A lo largo de los años, la banda se transformó hasta que Brendon Urie quedó como el único miembro original, liderando la evolución hacia un sonido más pop y alternativo en discos como Death of a Bachelor (2016).
+        \n\n
+        El viaje de Panic! es una historia de reinvención, crecimiento y autenticidad.
+        Brendon Urie, en su constante búsqueda de expansión artística, se consolidó como una de las figuras más carismáticas y multifacéticas del pop contemporáneo, llevando a la banda hacia un legado intemporal.
+        \n\n
+        “Haz lo que amas y nunca pares, no importa cuántos obstáculos encuentres en el camino.”
+        \n
+        — Brendon Urie
+    ]]></string>
+
+    <!-- AfycsoView -->
+    <string name="afycso_body_text"><![CDATA[
+        A Fever You Can\'t Sweat Out es el álbum debut de la banda estadounidense Panic! at the Disco.
+        El disco se grabó principalmente en los SOMD! Studios en College Park, Maryland, junto al productor Matt Squire.
+        Este se publicó el 27 de septiembre de 2005 mediante los sellos Decaydance Records y Fueled by Ramen.
+        Escrito y producido poco tiempo después de la graduación de la secundaria por parte de los miembros de la banda, el álbum se grabó en un periodo de tres meses entre junio y septiembre de 2005.
+        Las letras, escritas por Ryan Ross, tratan de problemas sociales que la banda señala a través de varias canciones; además, abarcan temas como la santidad del matrimonio, el adulterio, la salud mental, el alcoholismo y la prostitución.
+        \n\n
+        Precedido del éxito de los sencillos \"I Write Sins Not Tragedies\" y \"The Only Difference Between Martyrdom and Suicide Is Press Coverage\",
+        A Fever You Can\'t Sweat Out alcanzó la posición número trece en la lista Billboard 200, y se mantuvo en esta por ochenta y ocho semanas.
+    ]]></string>
+
+    <!-- PoView -->
+    <string name="po_body_text"><![CDATA[
+        Pretty. Odd. es el segundo álbum de estudio de la banda de rock Panic! at the Disco.
+        Fue lanzado en el Reino Unido el 24 de marzo de 2008, en Estados Unidos el 25 de marzo de 2008 y el 29 de marzo en Australia.
+        Su primer sencillo es \"Nine in the Afternoon\". En la primera semana vendió 139 000 copias.
+    ]]></string>
+
+    <!-- VvView -->
+    <string name="vv_body_text"><![CDATA[
+        Vices & Virtues es el tercer álbum de estudio de la banda estadounidense Panic! at the Disco, lanzado el 22 de marzo de 2011 por Fueled by Ramen.
+        Producido por Butch Walker y John Feldmann, el álbum marca el debut de la banda con solo dos integrantes, Brendon Urie y Spencer Smith, esto debido a la partida del guitarrista principal, Ryan Ross, y el bajista Jon Walker, el 6 de julio de 2009.
+        \n\n
+        Si bien la salida de Walker y Ross dejó un agujero en el apartado de escritura y composición de Panic! at the Disco, la experiencia se convirtió en un catalizador para Urie, encontrando su propia voz y confianza para ocupar el puesto de escritor principal.
+        La lírica del álbum fue descrita como «el estudio del comportamiento humano», llegando a temas como la manipulación y confusión.
+        La creación de Vices & Virtues tardó más de dos años, eso los llevó a una nueva experimentación musical debido al largo tiempo en el estudio.
+        \n\n
+        Tras su lanzamiento, el álbum recibió críticas generalmente positivas.
+        Los críticos alabaron la amplia variedad de estilos musicales en el álbum, mientras que citan la sencillez de la composición y el detallado lirismo de Urie como detractor.
+    ]]></string>
+
+    <!-- TwtltrtdView -->
+    <string name="twtltrtd_body_text"><![CDATA[
+        Too Weird to Live, Too Rare to Die! es el cuarto álbum de la banda Panic! at the Disco,
+        lanzado el 8 de octubre de 2013 en Decaydance y Fueled by Ramen, producido por Butch Walker.
+        Este fue el primer y único disco de la banda en incluir al bajista Dallon Weekes como miembro oficial.
+        \n\n
+        Además de ser el último en contar con la participación del baterista Spencer Smith,
+        quien habría sido miembro de la agrupación desde sus comienzos, dejando así a Urie como el único miembro original de la banda estadounidense.
+        Cabe destacar que la mayoría de las canciones fueron compuestas por Dallon Weekes
+    ]]></string>
+
+    <!-- DoabView -->
+    <string name="doab_body_text"><![CDATA[
+        Death of a Bachelor es el quinto álbum de estudio de la banda estadounidense de pop rock Panic! at the Disco,
+        lanzado 15 de enero de 2016 mediante DCD2 y Fueled by Ramen. Es el sucesor del cuarto álbum de estudio de la banda,
+        Too Weird to Live, Too Rare to Die!, siendo todo el álbum compuesto, escrito y grabado por el vocalista y multiinstrumentista Brendon Urie.
+        \n\n
+        Es el primer álbum de la banda que no cuenta con el baterista Spencer Smith y también sigue la salida del bajista Dallon Weekes de la alineación oficial,
+        posteriormente, se convirtió en un miembro de gira una vez más.
+    ]]></string>
+
+    <!-- DoabView -->
+    <string name="pftw_body_text"><![CDATA[
+        Pray for the Wicked es el sexto álbum de estudio de la banda estadounidense de Pop Rock Panic! At The Disco,
+        fue lanzado el 22 de junio de 2018 mediante DCD2 y Fueled by Ramen. Es el sucesor del quinto álbum de estudio de la banda, Death of a Bachelor,
+        siendo todo el álbum compuesto, escrito y grabado por el vocalista y multiinstrumentista Brendon Urie. El álbum fue producido por Jake Sinclair y precedido por los sencillos
+        "Say Amen" y "High Hopes", con " Silver Lining", "Dancing's Not a Crime", "Hey Look Ma, I Made It" y "King of the Clouds" después como sencillos promocionales.
+        Recibió críticas generalmente positivas después del lanzamiento, con muchos los críticos notaron las influencias de Urie en Broadway después de su actuación en Kinky Boots.
+        \n\n
+        Siendo el sexto álbum de estudio para la banda, fue elogiado por el nuevo estilo que abraza, lleno de fiesta, positivismo, disfrute
+        y optimismo durante la mayoría de las canciones que lo componen, Finalizando este con "Dying in La" una lenta melodía en compañía de un piano.
+    ]]></string>
+
+    <!-- BarComponents -->
+    <string name="button_dark_text_off">Modo Oscuro</string>
+    <string name="button_dark_text_on">Modo Claro</string>
+</resources>
